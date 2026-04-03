@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "戻れ戻れもどれもどれも。/アメリカ民謡研究会",
+  "base_artist": "アメリカ民謡研究会",
+  "createdAt": "2026-04-03T10:50:48.293997Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "戻れ戻れもどれもどれも。",
+      "artist": "アメリカ民謡研究会",
+      "has_synced": false,
+      "path": "select/pl_01_戻れ戻れもどれもどれも。_アメリカ民謡研究会.txt"
+    }
+  ]
+}
